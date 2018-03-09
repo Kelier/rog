@@ -1,0 +1,22 @@
+{
+  "name": "letsroll",
+  "version": "0.0.3",
+  "description": "a colorful && mini console.log()",
+  "main": "rog.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kelier/rog.git"
+  },
+  "keywords": [
+    "console", "log", "mini"
+  ],
+  "author": "yan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Kelier/rog/issues"
+  },
+  "homepage": "https://github.com/Kelier/rog#readme"
+}
