@@ -1,6 +1,6 @@
 {
-  "name": "letsroll",
-  "version": "0.0.3",
+  "name": "logwhore",
+  "version": "1.0.0",
   "description": "a colorful && mini console.log()",
   "main": "rog.js",
   "scripts": {
@@ -13,7 +13,7 @@
   "keywords": [
     "console", "log", "mini"
   ],
-  "author": "yan",
+  "author": "nineteenhundred",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/Kelier/rog/issues"

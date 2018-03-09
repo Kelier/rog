@@ -7,9 +7,9 @@
 
 #### Use Guide
 
-`
-const rog = require('rog');
+```
+const rog = require('logwhore');
 rog(something,flagtitle);
-`
+```
 
-![](https://github.com/Kelier/rog/)
+![](rog.jpg)
