@@ -12,4 +12,4 @@ const rog = require('logwhore');
 rog(something,flagtitle);
 ```
 
-![](rog.jpg)
+![](https://github.com/Kelier/rog/blob/master/rog.jpg)
