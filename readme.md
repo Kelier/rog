@@ -3,13 +3,13 @@
 
 [![npm (custom registry)](https://img.shields.io/npm/l/express.svg?registry_uri=https%3A%2F%2Fregistry.npmjs.com&style=for-the-badge)](https://www.npmjs.com/~nineteenhundred)
 
-`npm install rog`
+`npm install logwhore`
 
 #### Use Guide
 
 ```
-const rog = require('logwhore');
-rog(something,flagtitle);
+const log = require('logwhore');
+log(something,flagtitle);
 ```
 
-![](https://github.com/Kelier/rog/blob/master/rog.jpg)
+![截图](https://raw.githubusercontent.com/Kelier/rog/master/rog.jpg)

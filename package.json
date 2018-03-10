@@ -1,6 +1,6 @@
 {
   "name": "logwhore",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "description": "a colorful && mini console.log()",
   "main": "rog.js",
   "scripts": {
